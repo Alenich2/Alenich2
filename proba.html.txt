@@ -1,0 +1,13 @@
+<!DOCTYPE>
+  <html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset= windows-1251">
+	<meta name="моя сторінка" content="Перша пробна сторінка Аленича Богдана">
+	<meta name="keywords" content="комп'ютер, навчання, знання">
+	<meta name="description" content="Вчимось будувати web-сторінки">
+	</head>
+		<body>
+			<body bgcolor="DarkGreen">
+			<font color="red"><p>Текст червоного кольору</p></font>
+		</body>
+	</html>
